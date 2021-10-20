@@ -6,6 +6,8 @@ function setup() {
   createCanvas(400, 400);
   pos1 = 1;
   
+ //Square objects
+ 
   square1 = new boxc();
   square1.x = 0;
   square1.y = 0;
