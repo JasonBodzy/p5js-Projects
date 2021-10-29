@@ -18,7 +18,7 @@ function maximum(list){
     
   }
   
-  return(largest);
+  return(largest); //returns largest integer
   
 }
 
